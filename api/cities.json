@@ -1,0 +1,54 @@
+{
+  "list": [
+    {
+      "name": "Karaj",
+      "province": "Alborz",
+      "cid": 1
+    },
+    {
+      "name": "Parand",
+      "province": "Tehran",
+      "cid": 2
+    },
+    {
+      "name": "Meybod",
+      "province": "Yazd",
+      "cid": 3
+    },
+    {
+      "name": "Zanjan",
+      "province": "Zanjan",
+      "cid": 4
+    },
+    {
+      "name": "Khoram dareh",
+      "province": "Zanjan",
+      "cid": 5
+    },
+    {
+      "name": "Asara",
+      "province": "Alborz",
+      "cid": 6
+    },
+    {
+      "name": "Abhar",
+      "province": "Zanjan",
+      "cid": 7
+    },
+    {
+      "name": "Yazd",
+      "province": "Yazd",
+      "cid": 8
+    },
+    {
+      "name": "Tehran",
+      "province": "Tehran",
+      "cid": 9
+    },
+    {
+      "name": "Ziyabad",
+      "province": "Zanjan",
+      "cid": 10
+    }
+  ]
+}

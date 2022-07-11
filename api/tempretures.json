@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "temperature": 35,
+      "cid": 5
+    },
+    {
+      "temperature": 8,
+      "cid": 9
+    },
+    {
+      "temperature": 24,
+      "cid": 4
+    },
+    {
+      "temperature": 17,
+      "cid": 6
+    },
+    {
+      "temperature": 23,
+      "cid": 2
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+.province{
+    float: left;
+    margin: 30px;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 10px;
+    border: 5px;
+    border-color: black;
+    align-items: center;
+}
+body{
+    display: grid;
+    background-image: url("https://img.freepik.com/free-photo/white-cloud-blue-sky-sea_74190-4488.jpg?w=2000");
+}
+.city{
+    display: flex;
+    background-color: yellowgreen;
+    vertical-align: middle;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#root{
+    margin: 0px auto;
+    text-align: center;
+}
+.temperature{
+    border-radius: 50%;
+    padding: 5px;
+    margin: 10px;
+    width: 20px;
+    vertical-align: middle;
+    height: 20px;
+    background-color: grey;
+    text-align: center;
+}
+.cold{
+    background-color: skyblue;
+}
+.nutral{
+    background-color: green;
+}
+.hot{
+    background-color: red;
+}
+.temperature-stats{
+    display: flex;
+}
+.rain{
+    border-radius: 20%;
+    padding: 5px;
+    margin: 10px;
+    width: 20px;
+    vertical-align: middle;
+    height: 20px;
+    background-color: blue;
+    text-align: center;
+}
